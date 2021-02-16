@@ -11,6 +11,7 @@ script:
   - yarn build
 
 notifications:
+  slack: myspace-wez3757:OeiMPP2SmMt3UYWGn9L4XK4E
   email:
     recipients:
       - diegoandresrojas2000@gmail.com
